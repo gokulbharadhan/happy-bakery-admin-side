@@ -1,0 +1,67 @@
+{
+  "project_info": {
+    "project_number": "196670834998",
+    "project_id": "bakery-93adc",
+    "storage_bucket": "bakery-93adc.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:196670834998:android:ba91ac95034610f4accb97",
+        "android_client_info": {
+          "package_name": "com.example.bakery"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCexH8PUR8a_4I5XQ0PHKusBbSl7a0M-bk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:196670834998:android:25b202051255352aaccb97",
+        "android_client_info": {
+          "package_name": "com.example.productaddernew"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCexH8PUR8a_4I5XQ0PHKusBbSl7a0M-bk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:196670834998:android:79f6390a0cb66fa7accb97",
+        "android_client_info": {
+          "package_name": "com.example.products"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCexH8PUR8a_4I5XQ0PHKusBbSl7a0M-bk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

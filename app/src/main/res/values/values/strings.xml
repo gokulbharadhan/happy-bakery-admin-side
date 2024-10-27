@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Bakery</string>
+    <string name="rightAdrress">The Right Address\nFor Shopping\nAny Day</string>
+    <string name="quality">It is now very easy to reach the\nbest quality\namong the\nproducts on the internet!</string>
+    <string name="decrement">-</string>
+    <string name="increment">+</string>
+</resources>
